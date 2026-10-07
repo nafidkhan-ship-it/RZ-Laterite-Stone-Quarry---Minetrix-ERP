@@ -1,0 +1,17 @@
+{
+  "name": "RZ Laterite Stone Quarry - Minetrix",
+  "short_name": "RZ Minetrix",
+  "description": "Executive Laterite Stone Quarry Operations & Accounts System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a0c",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "/logo-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
